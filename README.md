@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rakshita 👩‍💻
 
-<!--
-**sbrakshita-07/sbrakshita-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | Aspiring Software Developer  
+💡 Interested in Python, Web Development, and Problem Solving  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- MySQL
+- HTML, CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Social Distancing Detection System
+- Hotel Management System
+- Vehicle Management System
+
+## Contact
+📧 sbrakshita@gmail.com
