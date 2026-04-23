@@ -1,7 +1,8 @@
 # Hi, I'm Rakshita 👩‍💻
 
 🎓 MCA Student | Aspiring Software Developer  
-💡 Interested in Python, Web Development, and Problem Solving  
+💡 Skilled in Python, Web Development, and Problem Solving  
+
 
 ## Skills
 - Python
@@ -16,3 +17,4 @@
 
 ## Contact
 📧 sbrakshita@gmail.com
+
