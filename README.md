@@ -8,7 +8,7 @@
 - Python
 - MySQL
 - HTML, CSS
-- Git & GitHub
+- Git
 
 ## Projects
 - Social Distancing Detection System
